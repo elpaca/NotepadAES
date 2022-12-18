@@ -55,7 +55,7 @@ public class MainWindow extends JFrame {
         setTitle("记事本");
         setSize(600, 400);
         setLocationRelativeTo(null);
-        setIconImage(new ImageIcon(Objects.requireNonNull(getClass().getResource("/img/pencil.ico"))).getImage());
+        setIconImage(new ImageIcon(Objects.requireNonNull(getClass().getResource("/img/pencil.png"))).getImage());
         setDefaultCloseOperation(DO_NOTHING_ON_CLOSE);
         addWindowListener(new WindowAdapter() {
             @Override
