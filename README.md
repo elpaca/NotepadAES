@@ -7,4 +7,4 @@ A HITWH curriculum design
 A notepad with AES encryption support, pretty similar to the Windows notepad.exe, of which most of the functions implemented excluding:
 
 - Finding & Replacing
-- Others
+- Maybe others
