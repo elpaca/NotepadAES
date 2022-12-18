@@ -1,7 +1,5 @@
 # NotepadAES
 
----
-
 A HITWH curriculum design
 
 ![图片](img/notepad.png)
