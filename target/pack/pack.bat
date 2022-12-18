@@ -1,0 +1,1 @@
+jpackage -n NotepadAES -i . --main-jar .\notepad-1.0.jar --icon ..\..\src\main\resources\img\pencil.ico --win-menu --win-shortcut --vendor lizhengxiao
